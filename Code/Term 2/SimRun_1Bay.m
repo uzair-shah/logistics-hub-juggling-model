@@ -36,7 +36,7 @@ n = 10^5; %no. of iterations
 base_revenue = 15;
 fixed_cost = 5;
 delay_cost = 5;
-bay_cost = 7.5;
+bay_cost = 5;
 
 total_cost = 0;
 total_revenue = 0;
